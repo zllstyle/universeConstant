@@ -7,6 +7,8 @@ Fantasy world
 Xianxia world
 Comic world
 ...
+#The rules let us think for ourselves, and how much can we think of. Let the world think about it. Let us  
+Implement these ideas.
 
 #It's just a class library. I wrote it for fun. Do not spray if you do not like it. Thank you very much!!！
 
