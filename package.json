@@ -1,0 +1,12 @@
+{
+  "name": "universeConstant",
+  "version": "1.0.0",
+  "description": "I wondered if the universe was a program, what the laws of the universe should be  \r Let's write it like this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
